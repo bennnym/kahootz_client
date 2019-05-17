@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/kahootz_client/static/css/main.640a724e.chunk.css",
+    "main.css": "/kahootz_client/static/css/main.83d69faf.chunk.css",
     "main.js": "/kahootz_client/static/js/main.a26dd629.chunk.js",
     "main.js.map": "/kahootz_client/static/js/main.a26dd629.chunk.js.map",
     "runtime~main.js": "/kahootz_client/static/js/runtime~main.794ba248.js",
@@ -8,9 +8,9 @@
     "static/js/2.00c986d7.chunk.js": "/kahootz_client/static/js/2.00c986d7.chunk.js",
     "static/js/2.00c986d7.chunk.js.map": "/kahootz_client/static/js/2.00c986d7.chunk.js.map",
     "index.html": "/kahootz_client/index.html",
-    "precache-manifest.15866269fc49c738059f4b828ccef4bc.js": "/kahootz_client/precache-manifest.15866269fc49c738059f4b828ccef4bc.js",
+    "precache-manifest.a89fd48b98ac287c526b4e663a27c738.js": "/kahootz_client/precache-manifest.a89fd48b98ac287c526b4e663a27c738.js",
     "service-worker.js": "/kahootz_client/service-worker.js",
-    "static/css/main.640a724e.chunk.css.map": "/kahootz_client/static/css/main.640a724e.chunk.css.map",
+    "static/css/main.83d69faf.chunk.css.map": "/kahootz_client/static/css/main.83d69faf.chunk.css.map",
     "static/media/boardgame.jpg": "/kahootz_client/static/media/boardgame.074e55f4.jpg",
     "static/media/books.jpg": "/kahootz_client/static/media/books.9789951c.jpg",
     "static/media/cartoon.jpg": "/kahootz_client/static/media/cartoon.825a3a57.jpg",
