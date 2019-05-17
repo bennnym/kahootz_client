@@ -2,7 +2,11 @@
   "name": "kahootz_client",
   "version": "0.1.0",
   "private": true,
+<<<<<<< HEAD
   "homepage": "https://bennnym.github.io/kahootz_client/",
+=======
+  "homepage": "https://ChrisLaneAU.github.io/kahootz_client",
+>>>>>>> 65dcbf95c3981ec2bea5da848e5252d84ef287fa
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.18",
     "@fortawesome/free-solid-svg-icons": "^5.8.2",
